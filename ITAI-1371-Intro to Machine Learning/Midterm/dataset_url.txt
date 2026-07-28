@@ -1,0 +1,6 @@
+6263-ITAI-1371-Intro to Machine Learning
+Midterm Exam: Original Dataset URL Source
+Student Name: Cuong Dang (Student ID: W217887095)
+
+Original Kaggle Dataset URL Repository:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
