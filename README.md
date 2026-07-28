@@ -60,5 +60,5 @@ Cuong-Dang-AI-Portfolio/
 
 ## Contact Information
 * **Email**: binxixi23@gmail.com
-* **LinkedIn**: [://linkedin.com](www.linkedin.com/in/cuong-dang-bb42a0385)
+* **LinkedIn**: [://linkedin.com](https://www.linkedin.com/in/cuong-dang-bb42a0385)
 * **GitHub Profile**: [://github.com](https://github.com/binxixi23)
