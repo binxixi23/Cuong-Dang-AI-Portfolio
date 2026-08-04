@@ -7,7 +7,7 @@ This directory houses my engineering case studies, domain-specific research repo
 
 ## Core Projects & Laboratory Index
 
-### 1. Featured Case Study: AI-Driven Financial Fraud Detection System
+### 1. Featured Case Study: AI Driven Financial Fraud Detection System
 * **Directory**: [./Module 04 AI in Finance/](./Module%2004%20AI%20in%20Finance/)
 * **System Objective**: Enterprise banking environments require low-latency transaction ingestion pipelines capable of identifying malicious actor profiles, credit anomalies, and fraud signatures without slowing down legitimate global transactions.
 * **Architectural Blueprint**:

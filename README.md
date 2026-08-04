@@ -28,8 +28,8 @@ I am an Applied AI and Robotics student specializing in end-to-end data preparat
 * **Core Coursework**: Sequence of module labs (Modules 1–6,8) covering low-level image processing, Convolutional Neural Networks (Chihuahua vs. Muffin CNN Classifier), and custom YOLO object detection bounding boxes.
 
 ### 3. Artificial Intelligence Applications (ITAI 2372)
-* **Directory**: [./ITAI-2372_Artificial_Intel_Applications/](./ITAI-2372_Artificial_Intel_Applications/)
-* **Featured Case Study**: [AI Driven Financial Fraud Detection Shield](./ITAI-2372_Artificial_Intel_Applications/Module%2004%20AI%20in%20Finance/)
+* **Directory**: [./ITAI_2372_Artificial_Intel_Applications/](./ITAI_2372_Artificial_Intel_Applications/)
+* **Featured Case Study**: [AI Driven Financial Fraud Detection Shield](./ITAI_2372_Artificial_Intel_Applications/Module%2004%20AI%20in%20Finance/)
   * Designed real-time transaction processing pipelines and anomaly detection flowchart architectures for banking environments.
 * **Core Coursework**: Multi-domain engineering reflections (Modules 1–12) covering smart cities, public transit telemetry, manufacturing automation, and ethical algorithmic bias mitigation strategies.
 
