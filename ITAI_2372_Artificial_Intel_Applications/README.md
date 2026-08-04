@@ -16,7 +16,7 @@ This directory houses my engineering case studies, domain-specific research repo
   * Documented functional banking benefits, system bottlenecks, and implementation challenges.
 
 ### 2. Cross-Industry Deployment & Research Matrix
-* **[Module 01 & 02](./Module%2001%20Philosophy%20AI%20and%20Ethical%20Societal%20Implications%20AI/)**: Philosophy, Ethics, & Generative AI
+* **[Module 01 & 02](./Module%202%20AI%20and%20Its%20Applications%20%26%20Future%20Trends%20in%20AI/)**: Philosophy, Ethics, & Generative AI
   * Analyzed foundational AI philosophical frameworks alongside emerging industry shifts in Large Language Model (LLM) structures and corporate implementation strategies.
 * **[Module 03 & 04](./Module%2003%20AI%20in%20Healthcare%20%26%20AI%20in%20Agriculture/)**: Healthcare Diagnostics & Precision Agriculture
   * Developed targeted reviews on augmented clinical diagnostics and deep computer vision systems utilized for automated crop health tracking.
