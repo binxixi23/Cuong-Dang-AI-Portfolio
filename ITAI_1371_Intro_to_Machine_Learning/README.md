@@ -17,11 +17,11 @@ This directory contains my engineering laboratories, theoretical research journa
 * **Key Findings**: Month-to-month contracting structures and high monthly charge baselines correlated with increased churn risk.
 
 ### 2. Machine Learning Lifecycle Laboratories
-* **[Module 01](./Module%2001%20Welcome%20Intro%20and%20What%20is%20Machine%20Learning/) & [Module 02](./Module%2002%20Tools%20Used%20in%20Machine%20Learning/)**: Environment Setup & Infrastructure
+* **[Module 01](./Module%2001%20Welcome%20Introduction%20and%20What%20is%20Machine%20Learning/) & [Module 02](./Module%2002%20Tools%20Used%20in%20Machine%20Learning/)**: Environment Setup & Infrastructure
   * Configured local Git structures, mapped cloud repositories, and established reproducible execution environments using Google Colab and Jupyter Notebooks.
 * **[Module 03](./Module%2003%20ML%20Workflow%20and%20Types%20Learning/) & [Module 04](./Module%2004%20Working%20with%20Data%20%26%20EDA/)**: Data Pipelines & Exploratory Engineering
   * Blueprinted core machine learning ingestion workflows and built structured scripts for profiling distributions, missing values, and visual statistical properties.
-* **[Module 05](./Module%2005%20Data%20Preparation%20%26%20Feature%20Engineering/)**: Feature Engineering & Preprocessing
+* **[Module 05](./Module%2005%20Data%20Preparation%20Feature%20Engineering/)**: Feature Engineering & Preprocessing
   * Built functional scaling, normalization, and categorical encoding pipelines. Cleaned raw structural spaces into model-ready structures.
 * **[Module 06](./Module%2006%20Regression%20%26%20Classification/)**: Algorithm Deployment
   * Implemented classic supervised regression and classification models using scikit-learn.
