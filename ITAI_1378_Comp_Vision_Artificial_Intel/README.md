@@ -21,7 +21,7 @@ This directory houses my engineering laboratories, architectural design blueprin
 
 ### 2. Computer Vision Lifecycle Laboratories
 
-*   **[Module 01](./Module%2001%20Welcome%20-Computer%20Vision%20Fundamentals/) & [Module 02](./Module%2002%20Image%20Fundamentals%20and%20Processing/)**: Vision Tooling & Pixel Matrices
+*   **[Module 01](./Module%2001%20Welcome%20Computer%20Vision%20Fundamentals/) & [Module 02](./Module%2002%20Image%20Fundamentals%20and%20Processing/)**: Vision Tooling & Pixel Matrices
     *   Configured core development tools and built functional image processing pipelines. Implemented color-space transformations (RGB, HSV, Grayscale), edge detection thresholds, and analytical matrix modifications.
 *   **[Module 03](./Module%2003%20Machine%20Learning%20for%20Computer%20Vision/)**: Classical ML for Vision Tasks
     *   Leveraged Support Vector Machines (SVM) and classical classifiers on subset image data (CIFAR-10) to benchmark non-deep-learning image categorization techniques.
