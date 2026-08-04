@@ -22,7 +22,7 @@ I am an Applied AI and Robotics student specializing in end-to-end data preparat
 
 ### 2. Computer Vision & Artificial Intelligence (ITAI 1378)
 * **Directory**: [./ITAI_1378_Comp_Vision_Artificial_Intel/](./ITAI_1378_Comp_Vision_Artificial_Intel/)
-* **Featured Capstone Project**: [SentinelClean System Development](./ITAI_1378_Comp_Vision_Artificial_Intel/FINAL-PROJECT/)
+* **Featured Capstone Project**: [SentinelClean System Development](./ITAI_1378_Comp_Vision_Artificial_Intel/FINAL%20PROJECT/)
   * Designed an intelligent computer vision engine to automate background scene noise cleanup and object tracking tasks.
   * Formulated technical companion architectures, system topologies, and execution limits.
 * **Core Coursework**: Sequence of module labs (Modules 1–6,8) covering low-level image processing, Convolutional Neural Networks (Chihuahua vs. Muffin CNN Classifier), and custom YOLO object detection bounding boxes.
