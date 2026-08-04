@@ -14,22 +14,22 @@ I am an Applied AI and Robotics student specializing in end-to-end data preparat
 ## Featured Courses & Projects
 
 ### 1. Intro to Machine Learning (ITAI 1371)
-* **Directory**: [./ITAI-1371-Intro-to-Machine-Learning/](./ITAI-1371-Intro-to-Machine-Learning/)
-* **Featured Midterm Project**: [Telco Customer Churn EDA Project](./ITAI-1371-Intro-to-Machine-Learning/Midterm/)
+* **Directory**: [./ITAI_1371_Intro_to_Machine_Learning/](./ITAI_1371_Intro_to_Machine_Learning/)
+* **Featured Midterm Project**: [Telco Customer Churn EDA Project](./ITAI_1371_Intro_to_Machine_Learning/Midterm/)
   * Engineered data cleaning pipelines, imputed missing values, and corrected data types for telecom subscriber records.
   * Generated analytical correlation heatmaps and categorical distribution plots to isolate high-risk customer churn patterns.
 * **Core Coursework**: Step-by-step module laboratories (Modules 1–8) covering foundational machine learning development environments, workflows, feature engineering, and model validation.
 
 ### 2. Computer Vision & Artificial Intelligence (ITAI 1378)
-* **Directory**: [./ITAI-1378-Computer-Vision/](./ITAI-1378-Computer-Vision/)
-* **Featured Capstone Project**: [SentinelClean System Development](./ITAI-1378-Computer-Vision/FINAL-PROJECT/)
+* **Directory**: [./ITAI_1378_Comp_Vision_Artificial_Intel/](./ITAI_1378_Comp_Vision_Artificial_Intel/)
+* **Featured Capstone Project**: [SentinelClean System Development](./ITAI_1378_Comp_Vision_Artificial_Intel/FINAL-PROJECT/)
   * Designed an intelligent computer vision engine to automate background scene noise cleanup and object tracking tasks.
   * Formulated technical companion architectures, system topologies, and execution limits.
-* **Core Coursework**: Sequence of module labs (Modules 1–6) covering low-level image processing, Convolutional Neural Networks (Chihuahua vs. Muffin CNN Classifier), and custom YOLO object detection bounding boxes.
+* **Core Coursework**: Sequence of module labs (Modules 1–6,8) covering low-level image processing, Convolutional Neural Networks (Chihuahua vs. Muffin CNN Classifier), and custom YOLO object detection bounding boxes.
 
 ### 3. Artificial Intelligence Applications (ITAI 2372)
-* **Directory**: [./ITAI-2372-AI-Applications/](./ITAI-2372-AI-Applications/)
-* **Featured Case Study**: [AI-Driven Financial Fraud Detection Shield](./ITAI-2372-AI-Applications/Module-04-AI-in-Finance/)
+* **Directory**: [./ITAI-2372_Artificial_Intel_Applications/](./ITAI-2372_Artificial_Intel_Applications/)
+* **Featured Case Study**: [AI-Driven Financial Fraud Detection Shield](./ITAI-2372_Artificial_Intel_Applications/Module-04-AI-in-Finance/)
   * Designed real-time transaction processing pipelines and anomaly detection flowchart architectures for banking environments.
 * **Core Coursework**: Multi-domain engineering reflections (Modules 1–12) covering smart cities, public transit telemetry, manufacturing automation, and ethical algorithmic bias mitigation strategies.
 
@@ -61,4 +61,4 @@ Cuong-Dang-AI-Portfolio/
 ## Contact Information
 * **Email**: binxixi23@gmail.com
 * **LinkedIn**: [://linkedin.com](https://www.linkedin.com/in/cuong-dang-bb42a0385)
-* **GitHub Profile**: [://github.com](https://github.com/binxixi23)
+* **GitHub Profile**: [://github.com](https://github.com/binxixi23/Cuong-Dang-AI-Portfolio)
