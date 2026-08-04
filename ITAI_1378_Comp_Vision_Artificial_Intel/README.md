@@ -7,7 +7,11 @@ This directory houses my engineering laboratories, architectural design blueprin
 
 ## Core Projects & Laboratory Index
 
-### 1. Capstone Project: SentinelCleanAIFN Deployed Production Build
+### 1. Project Foundations & Research Drafts
+*   **Directory Path**: [./Midterm_Final_Project_Individual_Portfolio_Instructions/](./Midterm_Final_Project_Individual_Portfolio_Instructions/)
+    *   Contains the initial technical proposals, midterm blueprint designs (`MD_Dang_Cuong_ITAI1378.pdf`), and foundational framework instructions that served as the baseline development premise for the final system.
+
+### 2. Capstone Project: SentinelCleanAIFN Deployed Production Build
 *   **Directory**: [./FINAL PROJECT/](./FINAL%20PROJECT/)
 *   **Problem Statement**: Automated visual environmental quality control requires the isolation of targets, removal of scene artifacts, and real-time detection of anomalies in varying lighting conditions.
 *   **Approach & Execution**:
