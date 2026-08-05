@@ -8,28 +8,37 @@ This directory houses my engineering case studies, domain-specific research repo
 ## Core Projects & Laboratory Index
 
 ### 1. Featured Case Study: AI Driven Financial Fraud Detection System
-* **Directory**: [./Module 04 AI in Finance/](./Module%2004%20AI%20in%20Finance/)
+* **Directory**: [./Module 04 AI in Finance/A04 AI in Fraud Detection Case Study/](./Module%2004%20AI%20in%20Finance/A04%20AI%20in%20Fraud%20Detection%20Case%20Study/)
 * **System Objective**: Enterprise banking environments require low-latency transaction ingestion pipelines capable of identifying malicious actor profiles, credit anomalies, and fraud signatures without slowing down legitimate global transactions.
 * **Architectural Blueprint**:
   * Designed end-to-end data processing streams mapping transaction metadata (velocity, spend volume, telemetry) to an autonomous shielding engine.
   * Formulated detailed structural flowcharts (`Data Process Flowchart.png`) detailing the step-up verification and risk hold loops.
   * Documented functional banking benefits, system bottlenecks, and implementation challenges.
 
-### 2. Cross-Industry Deployment & Research Matrix
-* **[Module 01 & 02](./Module%2002%20AI%20and%20Its%20Applications%20%26%20Future%20Trends%20in%20AI/)**: Philosophy, Ethics, & Generative AI
-  * Analyzed foundational AI philosophical frameworks alongside emerging industry shifts in Large Language Model (LLM) structures and corporate implementation strategies.
-* **[Module 03 & 04](./Module%2003%20AI%20in%20Healthcare%20%26%20AI%20in%20Agriculture/)**: Healthcare Diagnostics & Precision Agriculture
+### 2. Module-by-Module Engineering Repository
+
+* **[Module 02: Recent Advancements & Future Trends](./Module%2002%20AI%20and%20Its%20Applications%20%26%20Future%20Trends%20in%20AI/)**
+  * Investigated corporate implementation strategies and emerging Large Language Model (LLM) structural shifts.
+* **[Module 03: AI in Healthcare & Agriculture](./Module%2003%20AI%20in%20Healthcare%20%26%20AI%20in%20Agriculture/)**
   * Developed targeted reviews on augmented clinical diagnostics and deep computer vision systems utilized for automated crop health tracking.
-* **[Module 05](./Module%2005%20Smart%20Cities%20and%20Transportation/)**: Smart Cities & Telemetry Infrastructure
+* **[Module 04: AI in Finance](./Module%2004%20AI%20in%20Finance/)**
+  * Advanced anomaly detection modeling, risk profiling, and autonomous national financial shields.
+* **[Module 05: Smart Cities and Transportation](./Module%2005%20Smart%20Cities%20and%20Transportation/)**
   * Investigated urban data mesh architectures, focusing on edge-deployed transit telemetry and autonomous vehicle routing.
-* **[Module 06 & 08](./Module%2006%20AI%20in%20Entertainment%20and%20Media/)**: Digital Media & Conversational Retail E-Commerce
-  * Researched high-fidelity synthetic content generation pipelines alongside conversational retail AI assistants integrated with in-store vision systems.
-* **[Module 07](./Module%2007%20AI%20and%20Blockchain%20Integration/)**: Decentralized Ledger & Blockchain Consensus
-  * Mapped out trust architectures leveraging secure consensus algorithms (Proof-of-Work, Proof-of-Stake, Proof-of-History) paired with predictive AI agents.
-* **[Module 09, 10, & 11](./Module%2009%20Ethical%20and%20Societal%20Implications%20of%20AI/)**: Public Sector Administration & High-Performance Manufacturing
-  * Evaluated mitigation strategies for algorithmic bias, government automated workflows, and machine intelligence pipelines designed for predictive industrial maintenance.
-* **[Module 12](./Module%2012%20AGI%20(Artificial%20General%20Intelligence)/)**: Artificial General Intelligence (AGI) Horizons
-  * Documented architectural requirements for future highly integrated general intelligence networks across critical fields like clinical medicine.
+* **[Module 06: AI in Entertainment and Media](./Module%2006%20AI%20in%20Entertainment%20and%20Media/)**
+  * Researched high-fidelity synthetic content generation pipelines and algorithmic recommendation loops.
+* **[Module 07: AI and Blockchain Integration](./Module%2007%20AI%20and%20Blockchain%20Integration/)**
+  * Mapped out trust architectures leveraging secure consensus algorithms (PoW, PoS, PoH) paired with predictive AI agents.
+* **[Module 08: AI in Retail](./Module%2008%20AI%20in%20Retail/)**
+  * Explored conversational retail AI assistants integrated with dynamic demand forecasting and in-store vision systems.
+* **[Module 09: Ethical and Societal Implications of AI](./Module%2009%20Ethical%20and%20Societal%20Implications%20of%20AI/)**
+  * Evaluated systematic auditing strategies for demographic disparities and algorithmic bias mitigation.
+* **[Module 10: AI in Government and Public Sector](./Module%2010%20Case%20Study%20Advantages%20of%20using%20AI%20in%20Government%20and%20Public%20Sector/)**
+  * Reviewed scaling limits for automated administrative workflows and public utility allocation models.
+* **[Module 11: AI in Manufacturing](./Module%2011%20AI%20in%20Manufacturing/)**
+  * Investigated machine intelligence pipelines designed for predictive industrial maintenance and edge defect tracking.
+* **[Module 12: AGI Horizons](./Module%2012%20AGI%20%28Artificial%20General%20Intelligence%29/)**
+  * Documented safety isolation policies and horizon-scanning architectures for clinical medicine networks.
 
 ---
 
